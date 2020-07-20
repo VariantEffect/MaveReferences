@@ -123,7 +123,7 @@ You can also submit changes using the GitHub issue tracker.
 |[27898685](https://www.ncbi.nlm.nih.gov/pubmed/27898685)|[10.1371/journal.pgen.1006321](https://doi.org/10.1371/journal.pgen.1006321)|Qiu|2016|DMS|RNAPII trigger loop|Yeast|Growth|site-directed mutagenesis|Illumina|[PRJNA340979](https://www.ebi.ac.uk/ena/data/view/PRJNA340979)|No|
 |[27959955](https://www.ncbi.nlm.nih.gov/pubmed/27959955)|[10.1371/journal.ppat.1006114](https://doi.org/10.1371/journal.ppat.1006114)|Haddox|2016|DMS|Env|HIV|Growth|NNN PCR|Illumina|[PRJNA320270](https://www.ebi.ac.uk/ena/data/view/PRJNA320270)|TXT|
 |[27974464](https://www.ncbi.nlm.nih.gov/pubmed/27974464)|[10.1074/jbc.M116.764225](https://doi.org/10.1074/jbc.M116.764225)|van Rosmalen|2017|DMS|Cyclic peptide|Yeast|FACS|site-directed mutagenesis|Illumina|No|No|
-|[27984726](https://www.ncbi.nlm.nih.gov/pubmed/27984726)|[10.1016/j.cell.2016.11.031](https://doi.org/10.1016/j.cell.2016.11.031)|Fernandes|2017|DMS|Tat, Rev|HIV|Growth|NNN PCR|Illumina|E-MTAB-5154|XLS|
+|[27984726](https://www.ncbi.nlm.nih.gov/pubmed/27984726)|[10.1016/j.cell.2016.11.031](https://doi.org/10.1016/j.cell.2016.11.031)|Fernandes|2016|DMS|Tat, Rev|HIV|Growth|NNN PCR|Illumina|E-MTAB-5154|XLS|
 |[28007883](https://www.ncbi.nlm.nih.gov/pubmed/28007883)|[10.1534/genetics.116.196428](https://doi.org/10.1534/genetics.116.196428)|Keskin|2017|DMS|Fis1p|Yeast|Growth|site-directed mutagenesis|Illumina|10.5061/dryad.j14r5|XLS (Counts)|
 |[28009265](https://www.ncbi.nlm.nih.gov/pubmed/28009265)|[10.1016/j.cels.2016.11.004](https://doi.org/10.1016/j.cels.2016.11.004)|Kelsic|2016|DMS|infA|Bacteria|Growth|MAGE|amplicon|E-MTAB-4020|TXT|
 |[28024160](https://www.ncbi.nlm.nih.gov/pubmed/28024160)|[10.1038/nmeth.4121](https://doi.org/10.1038/nmeth.4121)|Yartseva|2017|MPRA|mRNA stability|Zebrafish|Transcription|selected RNA sequences|Illumina|[SRP090954](https://www.ebi.ac.uk/ena/data/view/SRP090954)|No|
@@ -223,3 +223,11 @@ You can also submit changes using the GitHub issue tracker.
 |[31325330](https://www.ncbi.nlm.nih.gov/pubmed/31325330)|[10.1002/prot.25786 ](https://doi.org/10.1002/prot.25786 )|Warszawski|2020|DMS|basigin|||||||
 |[29466705](https://www.ncbi.nlm.nih.gov/pubmed/29466705)|[10.1016/j.jmb.2018.02.009 ](https://doi.org/10.1016/j.jmb.2018.02.009 )|Canale|2018|DMS|HA|||||||
 |[24887409](https://www.ncbi.nlm.nih.gov/pubmed/24887409)|[10.1371/journal.pone.0097817 ](https://doi.org/10.1371/journal.pone.0097817 )|Shin|2014|DMS|flavin mononucleotide binding fluorescent protein |||||||
+|[30709739](https://www.ncbi.nlm.nih.gov/pubmed/30709739)|[10.1016/j.immuni.2018.12.017 ](https://doi.org/10.1016/j.immuni.2018.12.017 )|Dingens|2019|DMS|Env|||||||
+|[29912470](https://www.ncbi.nlm.nih.gov/pubmed/29912470)|[10.1093/nar/gky255 ](https://doi.org/10.1093/nar/gky255 )|Atkinson|2018|DMS|adenylate kinase|||||||
+|[29663315](https://www.ncbi.nlm.nih.gov/pubmed/29663315)|[10.1002/bit.26706 ](https://doi.org/10.1002/bit.26706 )|Medina-Cucurella|2018|DMS|canine nerve growth factor|||||||
+|[31081325](https://www.ncbi.nlm.nih.gov/pubmed/31081325)|[10.1021/acssynbio.9b00104 ](https://doi.org/10.1021/acssynbio.9b00104 )|Nikoomanzar|2019|DMS|Kod DNA polymerase|||||||
+|[29979580](https://www.ncbi.nlm.nih.gov/pubmed/29979580)|[10.1021/acssynbio.8b00121 ](https://doi.org/10.1021/acssynbio.8b00121 )|Scott|2018|DMS|tetracycline inactivating enzyme|||||||
+|[30886357](https://www.ncbi.nlm.nih.gov/pubmed/30886357)|[10.1038/s41564-019-0399-4 ](https://doi.org/10.1038/s41564-019-0399-4 )|Setoh|2019|DMS|Zika envelope|||||||
+|[31242389](https://www.ncbi.nlm.nih.gov/pubmed/31242389)|[10.1021/acs.molpharmaceut.9b00418 ](https://doi.org/10.1021/acs.molpharmaceut.9b00418 )|Klesmith|2019|DMS|CD19|||||||
+|||||||||||||
