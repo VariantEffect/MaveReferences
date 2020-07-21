@@ -230,4 +230,3 @@ You can also submit changes using the GitHub issue tracker.
 |[29979580](https://www.ncbi.nlm.nih.gov/pubmed/29979580)|[10.1021/acssynbio.8b00121 ](https://doi.org/10.1021/acssynbio.8b00121 )|Scott|2018|DMS|tetracycline inactivating enzyme|||||||
 |[30886357](https://www.ncbi.nlm.nih.gov/pubmed/30886357)|[10.1038/s41564-019-0399-4 ](https://doi.org/10.1038/s41564-019-0399-4 )|Setoh|2019|DMS|Zika envelope|||||||
 |[31242389](https://www.ncbi.nlm.nih.gov/pubmed/31242389)|[10.1021/acs.molpharmaceut.9b00418 ](https://doi.org/10.1021/acs.molpharmaceut.9b00418 )|Klesmith|2019|DMS|CD19|||||||
-|||||||||||||
