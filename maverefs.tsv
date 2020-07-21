@@ -1,6 +1,6 @@
 PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	Sequencing Platform	Raw Data	Scores in Table
 19915551	10.1038/nbt.1589	Patwardhan	2009	MPRA	T3 promoter, T7 promoter, SP6 promoter, CMV promoter, HBB promoter, S100A4 promoter	in vitro	Transcription	microarray synthesis	Illumina	SRP001721	TXT
-20439748	10.1073/pnas.1004290107	Kinney	2010	MPRA	lac promoter	E.coli	FACS	Cassette ligation	Roche 454	SRA012345	No
+20439748	10.1073/pnas.1004290107	Kinney	2010	MPRA	lac promoter	E.coli	FACS	doped oligo synthesis	Roche 454	SRA012345	No
 20711194	10.1038/nmeth.1492	Fowler	2010	DMS	WW domain	Phage	Binding	doped oligo synthesis	Illumina	SRP002725	No
 20714644	10.1039/c0mb00061b	Ernst	2010	DMS	Synthetic PDZ domain	Phage	Binding	Kunkel	Roche 454	No	No
 21464309	10.1073/pnas.1016024108	Hietpas	2011	DMS	Hsp90	Yeast	Growth	NNN PCR	Illumina	No	TXT
@@ -15,7 +15,7 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 23017428	10.1016/j.jmb.2012.09.014	Deng	2012	DMS	TEM1 Beta-lactamase	E.coli	Amp resistance	NNS Kunkel	Roche 454	No	XLS
 23035249	10.1073/pnas.1209751109	Araya	2012	DMS	WW domain	Phage	Binding	doped oligo synthesis	Illumina	Yes	No
 23041932	10.1038/nature11500	McLaughlin	2012	DMS	PSD95 PDZ	Bacteria	Special	NNS PCR	Illumina	No	No
-23103372	10.1016/j.bbrc.2012.10.066	Fujino	2012	DMS	Fab antibody fragment	in vitro	Ribodisplay	PCR with ìfragmentsî	Roche 454	No	No
+23103372	10.1016/j.bbrc.2012.10.066	Fujino	2012	DMS	Fab antibody fragment	in vitro	Ribodisplay	PCR with ‚Äúfragments‚Äù	Roche 454	No	No
 23152521	10.1128/JVI.01658-12	Wu	2012	DMS	Neuraminidase	Human/H1N1	Oseltamivir resistance	error prone pcr	Roche 454	No	No
 23241746	10.1101/gr.144659.112	Liachko	2012	MPRA	Autonomously replicating sequences	Yeast	Growth	doped oligo synthesis	Illumina	SRA051406	No
 23287719	10.1126/science.1230161	Ernst	2013	DMS	Ubiquitin	Phage	Binding	site-directed mutagenesis with doped oligos	ELISA	No	No
@@ -60,7 +60,7 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 25657251	10.1126/science.1257360	Podgornaia	2015	DMS	PhoQ	Bacteria	FACS	NNS PCR	Illumina	No	No
 25723163	10.1016/j.cell.2015.01.035	Stiffler	2016	DMS	TEM1 B-lactamase	E.coli	Growth	NNS PCR	Illumina	No	XLS
 25823446	10.1534/genetics.115.175802	Starita	2015	DMS	BRCA1	Yeast, Phage	Growth, Binding	microarray synthesis	Illumina (barcoded and subassembly)	No	XLS
-25875337	10.1371/journal.pgen.1005147	Shalem	2015	MPRA	3í UTR	Yeast	Fluorescence, Transcription	microarray synthesis	Illumina	No	XLS
+25875337	10.1371/journal.pgen.1005147	Shalem	2015	MPRA	3‚Äô UTR	Yeast	Fluorescence, Transcription	microarray synthesis	Illumina	No	XLS
 26040002	10.1073/pnas.1422285112	Romero	2015	DMS	Bgl2	Bacteria/microfluidic droplets	Activity	error-prone PCR	Illumina	No	No
 26132554	10.1371/journal.pgen.1005310	Wu	2015	DMS	Polymerase PA	Influenza	Growth	error-prone PCR	Illumina	PRJNA254185	XLS
 26170332	10.1073/pnas.1511328112	Kretz	2015	DMS	VWF	Phage	Binding/cleavage	doped oligo synthesis	Illumina	No	XLS
@@ -161,7 +161,7 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 30778069	10.1038/s41467-019-08777-y	Michaels	2019	MPRA	microRNA	HEK293T	polysome profiling	degenerate oligos	Illumina	PRJNA516224	No
 30936490	10.1038/s41564-019-0412-y	Noda-Garcia	2019	DMS	GDH	Bacteria	Growth	NNS PCR	Illumina	No	XLS
 30956043	10.1016/j.molcel.2019.02.003	Ahler	2019	DMS	Src	Yeast	Growth	NNK PCR	Illumina (barcoded and subassembly)	GSE114098	XLS
-31267113	10.1038/s41587-019-0164-5	Sample	2019	MPRA	5í UTR	human cells	polysome profiling	random bases	Illumina	GSE114002	No
+31267113	10.1038/s41587-019-0164-5	Sample	2019	MPRA	5‚Äô UTR	human cells	polysome profiling	random bases	Illumina	GSE114002	No
 31395865	10.1038/s41467-019-11526-w	Kircher	2019	MPRA	Multiple mammalian promoters and enhancers	multiple cell lines	Transcription	error-prone PCR	Illumina	GSE126550 	TXT
 31697803	10.1182/blood.2019002561  	Bridgford	2020	DMS	MPL	Ba/F3 cells	Growth	NNN PCR	Illlumina	SRR10193506	TXT
 32385156	10.1073/pnas.1918680117 	Mehlhoff	2020	DMS	TEM-1 BL	E.coli	Growth	NNN PCR	Illlumina	PRJNA565437 	XLS
