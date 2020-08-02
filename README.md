@@ -18,7 +18,7 @@ You can also submit changes using the GitHub issue tracker.
 |PMID|DOI|First author|Year|Type|Molecule|Model|Selection Type|Mutagenesis Type|Sequencing Platform|Raw Data|Scores in Table|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |[19915551](https://www.ncbi.nlm.nih.gov/pubmed/19915551)|[10.1038/nbt.1589](https://doi.org/10.1038/nbt.1589)|Patwardhan|2009|MPRA|T3 promoter, T7 promoter, SP6 promoter, CMV promoter, HBB promoter, S100A4 promoter|in vitro|Transcription|microarray synthesis|Illumina|[SRP001721](https://www.ebi.ac.uk/ena/data/view/SRP001721)|TXT|
-|[20439748](https://www.ncbi.nlm.nih.gov/pubmed/20439748)|[10.1073/pnas.1004290107](https://doi.org/10.1073/pnas.1004290107)|Kinney|2010|MPRA|lac promoter|E.coli|FACS|Cassette ligation|Roche 454|[SRA012345](https://www.ebi.ac.uk/ena/data/view/SRA012345)|No|
+|[20439748](https://www.ncbi.nlm.nih.gov/pubmed/20439748)|[10.1073/pnas.1004290107](https://doi.org/10.1073/pnas.1004290107)|Kinney|2010|MPRA|lac promoter|E.coli|FACS|doped oligo synthesis|Roche 454|[SRA012345](https://www.ebi.ac.uk/ena/data/view/SRA012345)|No|
 |[20711194](https://www.ncbi.nlm.nih.gov/pubmed/20711194)|[10.1038/nmeth.1492](https://doi.org/10.1038/nmeth.1492)|Fowler|2010|DMS|WW domain|Phage|Binding|doped oligo synthesis|Illumina|[SRP002725](https://www.ebi.ac.uk/ena/data/view/SRP002725)|No|
 |[20714644](https://www.ncbi.nlm.nih.gov/pubmed/20714644)|[10.1039/c0mb00061b](https://doi.org/10.1039/c0mb00061b)|Ernst|2010|DMS|Synthetic PDZ domain|Phage|Binding|Kunkel|Roche 454|No|No|
 |[21464309](https://www.ncbi.nlm.nih.gov/pubmed/21464309)|[10.1073/pnas.1016024108](https://doi.org/10.1073/pnas.1016024108)|Hietpas|2011|DMS|Hsp90|Yeast|Growth|NNN PCR|Illumina|No|TXT|
