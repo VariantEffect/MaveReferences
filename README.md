@@ -96,7 +96,7 @@ You can also submit changes using the GitHub issue tracker.
 |[26716404](https://www.ncbi.nlm.nih.gov/pubmed/26716404)|[10.7554/eLife.09532](https://doi.org/10.7554/eLife.09532)|Sahoo|2015|DMS|CcdB, DgkA|Bacteria|Growth|NNN PCR|Roche 454|No|No|
 |[26754751](https://www.ncbi.nlm.nih.gov/pubmed/26754751)|[10.1186/s12864-015-2358-7](https://doi.org/10.1186/s12864-015-2358-7)|Wu|2016|DMS|M segment|Influenza|Growth|error-prone PCR|Illumina|[PRJNA285135](https://www.ebi.ac.uk/ena/data/view/PRJNA285135)|XLS|
 |[26779844](https://www.ncbi.nlm.nih.gov/pubmed/26779844)|[10.1002/pro.2881](https://doi.org/10.1002/pro.2881)|Foight|2016|DMS|CD40, TANK|Bacteria|FACS|NNK PCR|Illumina|No|No|
-|[26824389](https://www.ncbi.nlm.nih.gov/pubmed/26824389)|[10.7554/eLife.12125](https://doi.org/10.7554/eLife.12125)|Elazar|2016|DMS|Transmembrane segment|Bacteria|Growth|NNS PCR|Illumina|No|No|
+|[26824389](https://www.ncbi.nlm.nih.gov/pubmed/26824389)|[10.7554/eLife.12125](https://doi.org/10.7554/eLife.12125)|Elazar|2016|DMS|Transmembrane segment|Bacteria|Growth|NNS PCR|Illumina|No|XLS (Counts)|
 |[26865697](https://www.ncbi.nlm.nih.gov/pubmed/26865697)|[10.1534/g3.116.027904](https://doi.org/10.1534/g3.116.027904)|Hoggard|2016|MPRA|Autonomously replicating sequences|Yeast|Growth|doped oligo synthesis|Illumina|[SRP065331](https://www.ebi.ac.uk/ena/data/view/SRP065331)|No|
 |[26936925](https://www.ncbi.nlm.nih.gov/pubmed/26936925)|[10.1534/genetics.116.188037](https://doi.org/10.1534/genetics.116.188037)|Rich|2016|MPRA|SUL1 promoter|Yeast|Growth|error-prone PCR|Illumina (barcoded and subassembly)|[PRJNA273419](https://www.ebi.ac.uk/ena/data/view/PRJNA273419)|XLS|
 |[26941320](https://www.ncbi.nlm.nih.gov/pubmed/26941320)|[10.1126/science.aad6881](https://doi.org/10.1126/science.aad6881)|Winkelman|2016|MPRA|TSS|Bacteria|Transcription|MASTER|Illumina|No|No|
@@ -232,3 +232,5 @@ You can also submit changes using the GitHub issue tracker.
 |[31242389](https://www.ncbi.nlm.nih.gov/pubmed/31242389)|[10.1021/acs.molpharmaceut.9b00418 ](https://doi.org/10.1021/acs.molpharmaceut.9b00418 )|Klesmith|2019|DMS|CD19|||||||
 |[32701056](https://www.ncbi.nlm.nih.gov/pubmed/32701056)|[10.7554/eLife.53476 ](https://doi.org/10.7554/eLife.53476 )|Thompson|2020|DMS|DHFR|E.coli|Growth|NNS PCR|Illumina|?|CSV|
 |[31558564](https://www.ncbi.nlm.nih.gov/pubmed/31558564)|[10.1534/g3.119.400535](https://doi.org/10.1534/g3.119.400535)|Gray|2019|DMS|amyloid beta 42|Yeast|Growth|NNK PCR|Illumina|GSE139122|TSV|
+|[32747536](https://www.ncbi.nlm.nih.gov/pubmed/32747536)|[10.1073/pnas.1909634117 ](https://doi.org/10.1073/pnas.1909634117 )|Walker|2020|DMS|23S rRNA|||||||
+|[32744131](https://www.ncbi.nlm.nih.gov/pubmed/32744131)|[10.1080/19420862.2020.1803646 ](https://doi.org/10.1080/19420862.2020.1803646 )|Simons|2020|DMS|IgG|||||||
