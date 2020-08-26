@@ -33,7 +33,7 @@ You can also submit changes using the GitHub issue tracker.
 |[23017428](https://www.ncbi.nlm.nih.gov/pubmed/23017428)|[10.1016/j.jmb.2012.09.014](https://doi.org/10.1016/j.jmb.2012.09.014)|Deng|2012|DMS|TEM1 Beta-lactamase|E.coli|Amp resistance|NNS Kunkel|Roche 454|No|XLS|
 |[23035249](https://www.ncbi.nlm.nih.gov/pubmed/23035249)|[10.1073/pnas.1209751109](https://doi.org/10.1073/pnas.1209751109)|Araya|2012|DMS|WW domain|Phage|Binding|doped oligo synthesis|Illumina|Yes|No|
 |[23041932](https://www.ncbi.nlm.nih.gov/pubmed/23041932)|[10.1038/nature11500](https://doi.org/10.1038/nature11500)|McLaughlin|2012|DMS|PSD95 PDZ|Bacteria|Special|NNS PCR|Illumina|No|No|
-|[23103372](https://www.ncbi.nlm.nih.gov/pubmed/23103372)|[10.1016/j.bbrc.2012.10.066](https://doi.org/10.1016/j.bbrc.2012.10.066)|Fujino|2012|DMS|Fab antibody fragment|in vitro|Ribodisplay|"PCR with ""fragments"""|Roche 454|No|No|
+|[23103372](https://www.ncbi.nlm.nih.gov/pubmed/23103372)|[10.1016/j.bbrc.2012.10.066](https://doi.org/10.1016/j.bbrc.2012.10.066)|Fujino|2012|DMS|Fab antibody fragment|in vitro|Ribodisplay|PCR with fragments|Roche 454|No|No|
 |[23152521](https://www.ncbi.nlm.nih.gov/pubmed/23152521)|[10.1128/JVI.01658-12](https://doi.org/10.1128/JVI.01658-12)|Wu|2012|DMS|Neuraminidase|Human/H1N1|Oseltamivir resistance|error prone pcr|Roche 454|No|No|
 |[23241746](https://www.ncbi.nlm.nih.gov/pubmed/23241746)|[10.1101/gr.144659.112](https://doi.org/10.1101/gr.144659.112)|Liachko|2012|MPRA|Autonomously replicating sequences|Yeast|Growth|doped oligo synthesis|Illumina|[SRA051406](https://www.ebi.ac.uk/ena/data/view/SRA051406)|No|
 |[23287719](https://www.ncbi.nlm.nih.gov/pubmed/23287719)|[10.1126/science.1230161](https://doi.org/10.1126/science.1230161)|Ernst|2013|DMS|Ubiquitin|Phage|Binding|site-directed mutagenesis with doped oligos|ELISA|No|No|
@@ -184,53 +184,53 @@ You can also submit changes using the GitHub issue tracker.
 |[31697803](https://www.ncbi.nlm.nih.gov/pubmed/31697803)|[10.1182/blood.2019002561  ](https://doi.org/10.1182/blood.2019002561  )|Bridgford|2020|DMS|MPL|Ba/F3 cells|Growth|NNN PCR|Illumina|[SRR10193506](https://www.ebi.ac.uk/ena/data/view/SRR10193506)|TXT|
 |[32385156](https://www.ncbi.nlm.nih.gov/pubmed/32385156)|[10.1073/pnas.1918680117 ](https://doi.org/10.1073/pnas.1918680117 )|Mehlhoff|2020|DMS|TEM-1 BL|E.coli|Growth|NNN PCR|Illumina|PRJNA565437 |XLS|
 |[32554590](https://www.ncbi.nlm.nih.gov/pubmed/32554590)|[10.1126/science.aaz5143](https://doi.org/10.1126/science.aaz5143)|Wu|2020|DMS|HA|Influenza|Growth|NNS/NNK PCR|Illumina|PRJNA510654, PRJNA493101, PRJNA510700 |TXT|
-|-|[10.1101/2020.06.17.157982](https://doi.org/10.1101/2020.06.17.157982)|Starr|2020|DMS|SARS-CoV-2 spike|yeast|Yeast display|NNS PCR|Illumina|PRJNA639956 |TXT|
-|[32144244](https://www.ncbi.nlm.nih.gov/pubmed/32144244)|[10.1038/s41467-020-15102-5](https://doi.org/10.1038/s41467-020-15102-5)|Wu|2020|DMS|HA|||||||
-|[32181350](https://www.ncbi.nlm.nih.gov/pubmed/32181350)|[10.1126/sciadv.aay7505](https://doi.org/10.1126/sciadv.aay7505)|Penn|2020|DMS|rhodopsin|||||||
-|[31442220](https://www.ncbi.nlm.nih.gov/pubmed/31442220)|[10.1371/journal.pcbi.1007207 ](https://doi.org/10.1371/journal.pcbi.1007207 )|Warszawski|2019|DMS|IgG|||||||
-|[30977563](https://www.ncbi.nlm.nih.gov/pubmed/30977563)|[10.1002/humu.23762 ](https://doi.org/10.1002/humu.23762 )|Wan|2019|DMS|rhodopsin|||||||
-|[32152544](https://www.ncbi.nlm.nih.gov/pubmed/32152544)|[10.1038/s41589-020-0480-6 ](https://doi.org/10.1038/s41589-020-0480-6 )|Newberry|2020|DMS|alpha-synuclein|||||||
-|[32175691](https://www.ncbi.nlm.nih.gov/pubmed/32175691)|[10.15252/msb.20199265 ](https://doi.org/10.15252/msb.20199265 )|Choudhury|2020|DMS|rpoB|||||||
-|[32187529](https://www.ncbi.nlm.nih.gov/pubmed/32187529)|[10.1016/j.molcel.2020.02.023 ](https://doi.org/10.1016/j.molcel.2020.02.023 )|Schmid-Burgk|2020|DMS|Cas9|||||||
+|[32587970](https://www.ncbi.nlm.nih.gov/pubmed/32587970)|[10.1101/2020.06.17.157982](https://doi.org/10.1101/2020.06.17.157982)|Starr|2020|DMS|SARS-CoV-2 spike|yeast|Yeast display|NNS PCR|Illumina|PRJNA639956 |TXT|
+|[32144244](https://www.ncbi.nlm.nih.gov/pubmed/32144244)|[10.1038/s41467-020-15102-5](https://doi.org/10.1038/s41467-020-15102-5)|Wu|2020|DMS|HA|Influenza|Growth|?|Illumina|[PRJNA563320](https://www.ebi.ac.uk/ena/data/view/PRJNA563320)|XLS|
+|[32181350](https://www.ncbi.nlm.nih.gov/pubmed/32181350)|[10.1126/sciadv.aay7505](https://doi.org/10.1126/sciadv.aay7505)|Penn|2020|DMS|rhodopsin|HEK293T|FACS, surface expression|NNN PCR|Illumina|No|PDF (Counts)|
+|[31442220](https://www.ncbi.nlm.nih.gov/pubmed/31442220)|[10.1371/journal.pcbi.1007207 ](https://doi.org/10.1371/journal.pcbi.1007207 )|Warszawski|2019|DMS|IgG|Yeast|Binding, expression|NNS PCR|Illumina (barcoded)|[https://www.addgene.org/110212/](https://www.addgene.org/110212/)|XLS|
+|[30977563](https://www.ncbi.nlm.nih.gov/pubmed/30977563)|[10.1002/humu.23762 ](https://doi.org/10.1002/humu.23762 )|Wan|2019|DMS|rhodopsin|HEK293T|FACS, surface expression|site-directed mutagenesis|Illumina|No|XLS|
+|[32152544](https://www.ncbi.nlm.nih.gov/pubmed/32152544)|[10.1038/s41589-020-0480-6 ](https://doi.org/10.1038/s41589-020-0480-6 )|Newberry|2020|DMS|alpha-synuclein|Yeast|Growth|Provided|Illumina (barcoded)|[PRJNA564806](https://www.ebi.ac.uk/ena/data/view/PRJNA564806)|XLS|
+|[32175691](https://www.ncbi.nlm.nih.gov/pubmed/32175691)|[10.15252/msb.20199265 ](https://doi.org/10.15252/msb.20199265 )|Choudhury|2020|DMS|rpoB|E.coli|Rifampicin resistance|CRISPR|Miseq|GSE143629|CSV|
 |[32511321](https://www.ncbi.nlm.nih.gov/pubmed/32511321)|[10.1101/2020.03.16.994236 ](https://doi.org/10.1101/2020.03.16.994236 )|Procko|2020|DMS|ACE2|Expi293F|FACS, Binding|NNK PCR|Illumina|GSE147194|XLS|
-|[32094176](https://www.ncbi.nlm.nih.gov/pubmed/32094176)|[10.1073/pnas.1915680117 ](https://doi.org/10.1073/pnas.1915680117 )|Suiter|2020|DMS|NUDT15|||||||
+|[32094176](https://www.ncbi.nlm.nih.gov/pubmed/32094176)|[10.1073/pnas.1915680117 ](https://doi.org/10.1073/pnas.1915680117 )|Suiter|2020|DMS|NUDT15|HEK293T|VAMP-seq, drug sensitivity|Synthesized|Illumina|No|XLS|
 |[32238226](https://www.ncbi.nlm.nih.gov/pubmed/32238226)|[10.1099/mgen.0.000364 ](https://doi.org/10.1099/mgen.0.000364 )|Andrews|2020|DMS|LamB|E.coli|Growth|error prone pcr|Illumina|[PRJNA604031](https://www.ebi.ac.uk/ena/data/view/PRJNA604031)|XLS|
-|[32703877](https://www.ncbi.nlm.nih.gov/pubmed/32703877)|[10.1101/2020.04.01.020487 ](https://doi.org/10.1101/2020.04.01.020487 )|Russ|2020|DMS|Chorismate mutase|||||||
-|[32004414](https://www.ncbi.nlm.nih.gov/pubmed/32004414)|[10.1111/cts.12758 ](https://doi.org/10.1111/cts.12758 )|Zhang|2020|DMS|CYP2C9, CYP2C19|||||||
-|-|[10.1101/2020.05.01.072884 ](https://doi.org/10.1101/2020.05.01.072884 )|Newberry|2020|DMS|alpha-synuclein|||||||
-|-|[10.1101/2020.05.10.087312 ](https://doi.org/10.1101/2020.05.10.087312 )|Chiasson|2020|DMS|VKOR|||||||
-|-|[10.1101/2020.06.26.174375 ](https://doi.org/10.1101/2020.06.26.174375 )|Nedrud|2020|DMS|PSD95 PDZ|||||||
+|[32703877](https://www.ncbi.nlm.nih.gov/pubmed/32703877)|[10.1101/2020.04.01.020487 ](https://doi.org/10.1101/2020.04.01.020487 )|Russ|2020|DMS|Chorismate mutase|E.coli|Growth|oligo synthesis|Illumina|No|No|
+|[32004414](https://www.ncbi.nlm.nih.gov/pubmed/32004414)|[10.1111/cts.12758 ](https://doi.org/10.1111/cts.12758 )|Zhang|2020|DMS|CYP2C9, CYP2C19|HEK293T|VAMP-seq|Nicking mutagenesis|Illumina|No|DOC|
+|[32786289](https://www.ncbi.nlm.nih.gov/pubmed/32786289)|[10.1101/2020.05.01.072884 ](https://doi.org/10.1101/2020.05.01.072884 )|Newberry|2020|DMS|alpha-synuclein|Yeast|Compound resistance|Provided|Illumina (barcoded)|[PRJNA56480](https://www.ebi.ac.uk/ena/data/view/PRJNA56480)|XLS|
+|-|[10.1101/2020.05.10.087312 ](https://doi.org/10.1101/2020.05.10.087312 )|Chiasson|2020|DMS|VKOR|HEK293T|VAMP-seq|Mutagenesis primer|Illumina (barcoded)|GSE149922|No (preprint)|
+|-|[10.1101/2020.06.26.174375 ](https://doi.org/10.1101/2020.06.26.174375 )|Nedrud|2020|DMS|PSD95 PDZ|E.coli|Binding|oligo synthesis|Illumina|No (private)|No (private)|
 |[31925410](https://www.ncbi.nlm.nih.gov/pubmed/31925410)|[10.1038/s41594-019-0358-z ](https://doi.org/10.1038/s41594-019-0358-z )|Persky|2020|DMS|CDK4, CDK6|Human cells|Growth|MITE|?|[PRJNA559517](https://www.ebi.ac.uk/ena/data/view/PRJNA559517)|XLS|
-|[29813059](https://www.ncbi.nlm.nih.gov/pubmed/29813059)|[10.1371/journal.pgen.1007419 ](https://doi.org/10.1371/journal.pgen.1007419 )|Dandage|2018|DMS|GmR|||||||
-|-|[10.1101/623108 ](https://doi.org/10.1101/623108 )|Jones|2020|DMS|ADRB2|||||||
+|[29813059](https://www.ncbi.nlm.nih.gov/pubmed/29813059)|[10.1371/journal.pgen.1007419 ](https://doi.org/10.1371/journal.pgen.1007419 )|Dandage|2018|DMS|GmR|E.coli|Gentamicin resistance|NNK PCR|Illumina (barcoded)|[PRJNA384918](https://www.ebi.ac.uk/ena/data/view/PRJNA384918)|XLS|
+|-|[10.1101/623108 ](https://doi.org/10.1101/623108 )|Jones|2020|DMS|ADRB2|HEK293T|Receptor activity|oligo synthesis|Illumina (barcoded)|No (preprint)|TSV|
 |[29678950](https://www.ncbi.nlm.nih.gov/pubmed/29678950)|[10.4049/jimmunol.1800343 ](https://doi.org/10.4049/jimmunol.1800343 )|Heredia|2018|DMS|CXCR4, CCR5|Expi293F|FACS, Binding|?|Illumina|GSE100368|XLS|
 |[25141179](https://www.ncbi.nlm.nih.gov/pubmed/25141179)|[10.1038/nature13695 ](https://doi.org/10.1038/nature13695 )|Findlay|2014|DMS|DBR1|Hap1|Growth|CRISPR|Illumina|[SRP044126](https://www.ebi.ac.uk/ena/data/view/SRP044126)|XLS|
-|[30969963](https://www.ncbi.nlm.nih.gov/pubmed/30969963)|[10.1371/journal.pgen.1008079 ](https://doi.org/10.1371/journal.pgen.1008079 )|Pokusaeva|2019|DMS|IGPD|||||||
-|[29590010](https://www.ncbi.nlm.nih.gov/pubmed/29590010)|[10.7554/eLife.34420 ](https://doi.org/10.7554/eLife.34420 )|Haddox|2018|DMS|Env|||||||
-|[27741319](https://www.ncbi.nlm.nih.gov/pubmed/27741319)|[10.1371/journal.pone.0164296 ](https://doi.org/10.1371/journal.pone.0164296 )|Gaiotto|2016|DMS|HA|||||||
-|[28585908](https://www.ncbi.nlm.nih.gov/pubmed/28585908)|[10.1080/19420862.2017.1337618 ](https://doi.org/10.1080/19420862.2017.1337618 )|Koenig|2017|DMS|IgG heavy chain|||||||
-|[26088137](https://www.ncbi.nlm.nih.gov/pubmed/26088137)|[10.1074/jbc.M115.662783 ](https://doi.org/10.1074/jbc.M115.662783 )|Koenig|2015|DMS|IgG CDR|||||||
-|[30721031](https://www.ncbi.nlm.nih.gov/pubmed/30721031)|[10.1021/acssynbio.8b00486 ](https://doi.org/10.1021/acssynbio.8b00486 )|Wrenbeck|2019|DMS|Polyketide synthase|||||||
-|[31400199](https://www.ncbi.nlm.nih.gov/pubmed/31400199)|[10.1093/molbev/msz184 ](https://doi.org/10.1093/molbev/msz184 )|Faber|2019|DMS|AmiE|||||||
-|[30894475](https://www.ncbi.nlm.nih.gov/pubmed/30894475)|[10.1128/JVI.00219-19 ](https://doi.org/10.1128/JVI.00219-19 )|Heredia|2019|DMS|Env|||||||
-|[31019050](https://www.ncbi.nlm.nih.gov/pubmed/31019050)|[10.1128/JVI.00161-19 ](https://doi.org/10.1128/JVI.00161-19 )|Hom|2019|DMS|matrix protein|||||||
-|[31038123](https://www.ncbi.nlm.nih.gov/pubmed/31038123)|[10.7554/eLife.45079 ](https://doi.org/10.7554/eLife.45079 )|Soh|2019|DMS|PB2|||||||
-|[31808666](https://www.ncbi.nlm.nih.gov/pubmed/31808666)|[10.1021/acschembio.9b00669 ](https://doi.org/10.1021/acschembio.9b00669 )|Zinkus-Boltz|2019|DMS|RAF|E.coli|Binding|error prone pcr|Illumina|No|XLS|
-|[31511387](https://www.ncbi.nlm.nih.gov/pubmed/31511387)|[10.1128/JVI.01291-19 ](https://doi.org/10.1128/JVI.01291-19 )|Sourisseau|2019|DMS|Zika envelope|||||||
-|[30761651](https://www.ncbi.nlm.nih.gov/pubmed/30761651)|[10.1002/jmr.2778 ](https://doi.org/10.1002/jmr.2778 )|Wollacott|2019|DMS|Proliferation-inducing ligand|||||||
-|[32510322](https://www.ncbi.nlm.nih.gov/pubmed/32510322)|[10.7554/eLife.56707 ](https://doi.org/10.7554/eLife.56707 )|Chen|2020|DMS|VIM-2 lactamase|||||||
-|[28579254](https://www.ncbi.nlm.nih.gov/pubmed/28579254)|[10.1016/j.chom.2017.05.003 ](https://doi.org/10.1016/j.chom.2017.05.003 )|Dingens|2017|DMS|Env|||||||
-|[31325330](https://www.ncbi.nlm.nih.gov/pubmed/31325330)|[10.1002/prot.25786 ](https://doi.org/10.1002/prot.25786 )|Warszawski|2020|DMS|basigin|||||||
-|[29466705](https://www.ncbi.nlm.nih.gov/pubmed/29466705)|[10.1016/j.jmb.2018.02.009 ](https://doi.org/10.1016/j.jmb.2018.02.009 )|Canale|2018|DMS|HA|||||||
-|[24887409](https://www.ncbi.nlm.nih.gov/pubmed/24887409)|[10.1371/journal.pone.0097817 ](https://doi.org/10.1371/journal.pone.0097817 )|Shin|2014|DMS|flavin mononucleotide binding fluorescent protein |||||||
-|[30709739](https://www.ncbi.nlm.nih.gov/pubmed/30709739)|[10.1016/j.immuni.2018.12.017 ](https://doi.org/10.1016/j.immuni.2018.12.017 )|Dingens|2019|DMS|Env|||||||
-|[29912470](https://www.ncbi.nlm.nih.gov/pubmed/29912470)|[10.1093/nar/gky255 ](https://doi.org/10.1093/nar/gky255 )|Atkinson|2018|DMS|adenylate kinase|||||||
-|[29663315](https://www.ncbi.nlm.nih.gov/pubmed/29663315)|[10.1002/bit.26706 ](https://doi.org/10.1002/bit.26706 )|Medina-Cucurella|2018|DMS|canine nerve growth factor|||||||
-|[31081325](https://www.ncbi.nlm.nih.gov/pubmed/31081325)|[10.1021/acssynbio.9b00104 ](https://doi.org/10.1021/acssynbio.9b00104 )|Nikoomanzar|2019|DMS|Kod DNA polymerase|||||||
-|[29979580](https://www.ncbi.nlm.nih.gov/pubmed/29979580)|[10.1021/acssynbio.8b00121 ](https://doi.org/10.1021/acssynbio.8b00121 )|Scott|2018|DMS|tetracycline inactivating enzyme|||||||
-|[30886357](https://www.ncbi.nlm.nih.gov/pubmed/30886357)|[10.1038/s41564-019-0399-4 ](https://doi.org/10.1038/s41564-019-0399-4 )|Setoh|2019|DMS|Zika envelope|||||||
-|[31242389](https://www.ncbi.nlm.nih.gov/pubmed/31242389)|[10.1021/acs.molpharmaceut.9b00418 ](https://doi.org/10.1021/acs.molpharmaceut.9b00418 )|Klesmith|2019|DMS|CD19|||||||
+|[30969963](https://www.ncbi.nlm.nih.gov/pubmed/30969963)|[10.1371/journal.pgen.1008079 ](https://doi.org/10.1371/journal.pgen.1008079 )|Pokusaeva|2019|DMS|IGPD|Yeast|Growth|?|Illumina|GSE99990|TXT|
+|[29590010](https://www.ncbi.nlm.nih.gov/pubmed/29590010)|[10.7554/eLife.34420 ](https://doi.org/10.7554/eLife.34420 )|Haddox|2018|DMS|Env|Human/HIV|viral replication|NNN PCR|Illumina (barcoded)|PRJNA371844, PRJNA412552|CSV (Counts)|
+|[27741319](https://www.ncbi.nlm.nih.gov/pubmed/27741319)|[10.1371/journal.pone.0164296 ](https://doi.org/10.1371/journal.pone.0164296 )|Gaiotto|2016|DMS|HA|Yeast|Antibody binding|error-prone PCR|Illumina (barcoded)|[PRJEB15301](https://www.ebi.ac.uk/ena/data/view/PRJEB15301)|DOC|
+|[28585908](https://www.ncbi.nlm.nih.gov/pubmed/28585908)|[10.1080/19420862.2017.1337618 ](https://doi.org/10.1080/19420862.2017.1337618 )|Koenig|2017|DMS|IgG heavy chain|Phage|Binding|NNK PCR|Illumina (barcoded)|No|PDF|
+|[26088137](https://www.ncbi.nlm.nih.gov/pubmed/26088137)|[10.1074/jbc.M115.662783 ](https://doi.org/10.1074/jbc.M115.662783 )|Koenig|2015|DMS|IgG CDR|Phage|Binding|NNK PCR|Illumina|No|No|
+|[30721031](https://www.ncbi.nlm.nih.gov/pubmed/30721031)|[10.1021/acssynbio.8b00486 ](https://doi.org/10.1021/acssynbio.8b00486 )|Wrenbeck|2019|DMS|pyrrolidine ketide synthase, levoglucosan kinase|E.coli|VAMP-seq|NNN, NNK PCR|Illumina|SUB4818031|CSV|
+|[31400199](https://www.ncbi.nlm.nih.gov/pubmed/31400199)|[10.1093/molbev/msz184 ](https://doi.org/10.1093/molbev/msz184 )|Faber|2019|DMS|AmiE|E.coli|Growth|Pfunkel|Illumina (barcoded)|SRA SAMN11258744-SAMN11258771|XLS|
+|[30894475](https://www.ncbi.nlm.nih.gov/pubmed/30894475)|[10.1128/JVI.00219-19 ](https://doi.org/10.1128/JVI.00219-19 )|Heredia|2019|DMS|Env|Expi293F|Binding by FACS|overlap extension PCR|Illumina (barcoded)|GSE102276, GSE117328, GSE126136|XLS|
+|[31019050](https://www.ncbi.nlm.nih.gov/pubmed/31019050)|[10.1128/JVI.00161-19 ](https://doi.org/10.1128/JVI.00161-19 )|Hom|2019|DMS|matrix protein|Human/influenza A|viral replication|NNN PCR|Illumina (barcoded)|[SRP144482](https://www.ebi.ac.uk/ena/data/view/SRP144482)|CSV|
+|[31038123](https://www.ncbi.nlm.nih.gov/pubmed/31038123)|[10.7554/eLife.45079 ](https://doi.org/10.7554/eLife.45079 )|Soh|2019|DMS|PB2|Influenza|viral replication|NNN PCR|Illumina (barcoded)|[PRJNA511556](https://www.ebi.ac.uk/ena/data/view/PRJNA511556)|CSV|
+|[31808666](https://www.ncbi.nlm.nih.gov/pubmed/31808666)|[10.1021/acschembio.9b00669 ](https://doi.org/10.1021/acschembio.9b00669 )|Zinkus-Boltz|2019|DMS|RAF|E.coli|Binding|error-prone PCR|Illumina|No|XLS|
+|[31511387](https://www.ncbi.nlm.nih.gov/pubmed/31511387)|[10.1128/JVI.01291-19 ](https://doi.org/10.1128/JVI.01291-19 )|Sourisseau|2019|DMS|Zika envelope|Human/Zika|viral replication|NNN PCR|Illumina (barcoded)|[PRJNA530795](https://www.ebi.ac.uk/ena/data/view/PRJNA530795)|XLS|
+|[30761651](https://www.ncbi.nlm.nih.gov/pubmed/30761651)|[10.1002/jmr.2778 ](https://doi.org/10.1002/jmr.2778 )|Wollacott|2019|DMS|Proliferation-inducing ligand|Yeast|Binding by FACS|NNK PCR|Illumina|No|No|
+|[32510322](https://www.ncbi.nlm.nih.gov/pubmed/32510322)|[10.7554/eLife.56707 ](https://doi.org/10.7554/eLife.56707 )|Chen|2020|DMS|VIM-2 lactamase|E.coli|Antibiotics resistance|NNN PCR|Illumina|[PRJNA606894](https://www.ebi.ac.uk/ena/data/view/PRJNA606894)|XLS|
+|[28579254](https://www.ncbi.nlm.nih.gov/pubmed/28579254)|[10.1016/j.chom.2017.05.003 ](https://doi.org/10.1016/j.chom.2017.05.003 )|Dingens|2017|DMS|Env|HIV|Antibody binding|NNN PCR|Illumina (barcoded)|SRA: SRX2548567-SRX2548579|TXT|
+|[31325330](https://www.ncbi.nlm.nih.gov/pubmed/31325330)|[10.1002/prot.25786 ](https://doi.org/10.1002/prot.25786 )|Warszawski|2020|DMS|basigin|Yeast|Binding, expression|NNS PCR|Illumina (barcoded)|No|XLS|
+|[29466705](https://www.ncbi.nlm.nih.gov/pubmed/29466705)|[10.1016/j.jmb.2018.02.009 ](https://doi.org/10.1016/j.jmb.2018.02.009 )|Canale|2018|DMS|HA|Human/infulenza|viral replication|?|Illumina|No|XLS (Counts)|
+|[24887409](https://www.ncbi.nlm.nih.gov/pubmed/24887409)|[10.1371/journal.pone.0097817 ](https://doi.org/10.1371/journal.pone.0097817 )|Shin|2014|DMS|flavin mononucleotide binding fluorescent protein |E.coli|Fluorescence|error-prone PCR|Illumina (barcoded)|[PRJNA242983](https://www.ebi.ac.uk/ena/data/view/PRJNA242983)|XLS|
+|[30709739](https://www.ncbi.nlm.nih.gov/pubmed/30709739)|[10.1016/j.immuni.2018.12.017 ](https://doi.org/10.1016/j.immuni.2018.12.017 )|Dingens|2019|DMS|Env|HIV|Antibody binding|NNN PCR|Illumina (barcoded)|SRP15794, PRJNA486029|CSV|
+|[29912470](https://www.ncbi.nlm.nih.gov/pubmed/29912470)|[10.1093/nar/gky255 ](https://doi.org/10.1093/nar/gky255 )|Atkinson|2018|DMS|adenylate kinase|E.coli|activity|Transposon mutagenesis (not substitution)|Illumina|SRR6327683, SRR6327684|No|
+|[29663315](https://www.ncbi.nlm.nih.gov/pubmed/29663315)|[10.1002/bit.26706 ](https://doi.org/10.1002/bit.26706 )|Medina-Cucurella|2018|DMS|canine nerve growth factor|Yeast|Antibody binding by FACS|Pfunkel|Illumina|SRA (SAMN07693504-SAMN07693526)|TSV|
+|[31081325](https://www.ncbi.nlm.nih.gov/pubmed/31081325)|[10.1021/acssynbio.9b00104 ](https://doi.org/10.1021/acssynbio.9b00104 )|Nikoomanzar|2019|DMS|Kod DNA polymerase|E.coli|activity by DrOPS|site-directed mutagenesis|Illumina|No|No|
+|[29979580](https://www.ncbi.nlm.nih.gov/pubmed/29979580)|[10.1021/acssynbio.8b00121 ](https://doi.org/10.1021/acssynbio.8b00121 )|Scott|2018|DMS|tetracycline inactivating enzyme|Yeast|Tetracycline resistance|error-prone PCR|Illumina|No|No|
+|[30886357](https://www.ncbi.nlm.nih.gov/pubmed/30886357)|[10.1038/s41564-019-0399-4 ](https://doi.org/10.1038/s41564-019-0399-4 )|Setoh|2019|DMS|Zika envelope|Zika|viral replication|NNN PCR|Illumina (barcoded)|[PRJNA449413](https://www.ebi.ac.uk/ena/data/view/PRJNA449413)|CSV|
+|[31242389](https://www.ncbi.nlm.nih.gov/pubmed/31242389)|[10.1021/acs.molpharmaceut.9b00418 ](https://doi.org/10.1021/acs.molpharmaceut.9b00418 )|Klesmith|2019|DMS|CD19|Yeast|Binding by FACS|NNK PCR|Illumina|No|No|
 |[32701056](https://www.ncbi.nlm.nih.gov/pubmed/32701056)|[10.7554/eLife.53476 ](https://doi.org/10.7554/eLife.53476 )|Thompson|2020|DMS|DHFR|E.coli|Growth|NNS PCR|Illumina|?|CSV|
 |[31558564](https://www.ncbi.nlm.nih.gov/pubmed/31558564)|[10.1534/g3.119.400535](https://doi.org/10.1534/g3.119.400535)|Gray|2019|DMS|amyloid beta 42|Yeast|Growth|NNK PCR|Illumina|GSE139122|TSV|
-|[32747536](https://www.ncbi.nlm.nih.gov/pubmed/32747536)|[10.1073/pnas.1909634117 ](https://doi.org/10.1073/pnas.1909634117 )|Walker|2020|DMS|23S rRNA|||||||
-|[32744131](https://www.ncbi.nlm.nih.gov/pubmed/32744131)|[10.1080/19420862.2020.1803646 ](https://doi.org/10.1080/19420862.2020.1803646 )|Simons|2020|DMS|IgG|||||||
+|[32747536](https://www.ncbi.nlm.nih.gov/pubmed/32747536)|[10.1073/pnas.1909634117 ](https://doi.org/10.1073/pnas.1909634117 )|Walker|2020|DMS|23S rRNA|E.coli|Growth|?|Illumina (barcoded)|Bioproject 511591|No|
+|[32744131](https://www.ncbi.nlm.nih.gov/pubmed/32744131)|[10.1080/19420862.2020.1803646 ](https://doi.org/10.1080/19420862.2020.1803646 )|Simons|2020|DMS|IgG|Yeast|Binding by FACS|error-prone PCR, NNK PCR|Sequel System|No|TIF|
+|[30723160](https://www.ncbi.nlm.nih.gov/pubmed/30723160)|[10.1074/jbc.RA118.006173 ](https://doi.org/10.1074/jbc.RA118.006173 )|Park|2020|DMS|T1R2|Expi293F|FACS, surface expression|error-prone PCR|Illumina|GSE115751|XLS|
